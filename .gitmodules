@@ -1,0 +1,9 @@
+[submodule "CompareVersion"]
+	path = CompareVersion
+	url = https://github.com/KakzRui/CompareVersion
+[submodule "LinesOverlap"]
+	path = LinesOverlap
+	url = https://github.com/KakzRui/LinesOverlap
+[submodule "SearchString"]
+	path = SearchString
+	url = https://github.com/KakzRui/SearchString
